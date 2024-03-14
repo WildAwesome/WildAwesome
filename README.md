@@ -13,16 +13,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|---------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>| Blue Team / Home Lab | 
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| Blue Team / Home Lab | 
-| Hack the Box WriteUps| <a href="https://github.com/...">....</a>| Learning Platform | 
+| Hack the Box WriteUps| <a href="https://github.com/WildAwesome/HacktheBox">Hack the Box</a>| Learning Platform | 
 | Try Hack Me WriteUps| <a href="https://github.com/WildAwesome/TryHackMe">Try Hack Me</a>| Learning Platform | 
-| Practical Pentration Tester Capstone (PNPT) WriteUps| <a href="https://github.com/...">....</a> | Red Team |
+| Practical Pentration Tester Capstone (PNPT) WriteUps| <a href="https://github.com/WildAwesome/PNPT">PNPT Capstone</a> | Red Team |
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab| Blue Team |
 | Mentee on the Virtual Testing Foundation Mentorship Programme | <a href="https://vt.foundation/career-path">Virtual Testing Foundation</a>| Learning |
-| Game of Active Directory - Orange CyberDefence| <a href="https://github.com/...">....</a>| Red Team / Home Lab |
-| Expose Lab: Automated Active Directory Lab - Ashifcoder | <a href="https://github.com/...">....</a>| Red Team / Home Lab |
-| AD Lab - alebov | <a href="https://github.com/...">....</a>| Red Team / Home Lab |
-| PicoCTF Challenges| <a href="https://picoctf.org/">PicoCTF</a>| CTF |
-| 316CTF Challenges| <a href="https://picoctf.org/">316CTF</a>| CTF |
+| Game of Active Directory - Orange CyberDefence| <a href="https://github.com/WildAwesome/GOAD">GOAD</a>| Red Team / Home Lab |
+| Expose Lab: Automated Active Directory Lab - Ashifcoder | <a href="https://github.com/WildAwesome/ExposeLab">Expose Lab</a>| Red Team / Home Lab |
+| AD Lab - alebov | <a href="https://github.com/WildAwesome/AD-Lab">AD-Lab</a>| Red Team / Home Lab |
+| PicoCTF Challenges| <a href="https://github.com/WildAwesome/PicoCTF">PicoCTF</a>| CTF |
+| 316CTF Challenges| <a href="https://github.com/WildAwesome/316CTF">316CTF</a>| CTF |
 
 
 ## Tools
