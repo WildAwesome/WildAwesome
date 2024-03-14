@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab| Blue Team |
 | Mentee on the Virtual Testing Foundation Mentorship Programme | <a href="https://vt.foundation/career-path">Virtual Testing Foundation</a>| Learning |
 | Game of Active Directory - Orange CyberDefence| <a href="https://github.com/WildAwesome/GOAD">GOAD</a>| Red Team / Home Lab |
-| Expose Lab: Automated Active Directory Lab - Ashifcoder | <a href="https://github.com/WildAwesome/ExposeLab">Expose Lab</a>| Red Team / Home Lab |
+| Expose Lab: Automated Active Directory Lab - Ashifcoder | <a href="https://github.com/WildAwesome/Expose-Lab">Expose Lab</a>| Red Team / Home Lab |
 | AD Lab - alebov | <a href="https://github.com/WildAwesome/AD-Lab">AD-Lab</a>| Red Team / Home Lab |
 | PicoCTF Challenges| <a href="https://github.com/WildAwesome/PicoCTF">PicoCTF</a>| CTF |
 | 316CTF Challenges| <a href="https://github.com/WildAwesome/316CTF">316CTF</a>| CTF |
