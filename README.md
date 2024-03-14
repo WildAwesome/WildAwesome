@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>| Blue Team / Home Lab | 
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| Blue Team / Home Lab | 
 | Hack the Box WriteUps| <a href="https://github.com/...">....</a>| Learning Platform | 
-| Try Hack Me WriteUps| <a href="https://github.com/...">....</a>| Learning Platform | 
+| Try Hack Me WriteUps| <a href="https://github.com/WildAwesome/TryHackMe">Try Hack Me</a>| Learning Platform | 
 | Practical Pentration Tester Capstone (PNPT) WriteUps| <a href="https://github.com/...">....</a> | Red Team |
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab| Blue Team |
 | Mentee on the Virtual Testing Foundation Mentorship Programme | <a href="https://vt.foundation/career-path">Virtual Testing Foundation</a>| Learning |
